@@ -1,1 +1,1 @@
-# website
+# website [![Build and Deploy MkDocs](https://github.com/voltageStudiosOfficial/website/actions/workflows/mkdocs-build.yml/badge.svg)](https://github.com/voltageStudiosOfficial/website/actions/workflows/mkdocs-build.yml)
